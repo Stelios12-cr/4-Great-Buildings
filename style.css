@@ -1,0 +1,21 @@
+body {
+    font-family: calibri;
+}
+
+header {
+    text-align:center;
+    color: blue
+    border-radius: 10px;
+}
+
+main {
+    text-align: center;
+}
+
+main img {
+    width: 400px;
+    height: 300px;
+}
+
+main img {
+    border: 3px solid blue;
